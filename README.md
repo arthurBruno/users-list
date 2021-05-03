@@ -1,4 +1,4 @@
-# My Universal React Project
+# 👥 Users List
 
 <p>
   <!-- iOS -->
@@ -15,30 +15,17 @@
   </a>
 </p>
 
-## 🚀 How to use
+## 📝 Características
 
-- Install packages with `yarn` or `npm install`.
-  - If you have native iOS code run `npx pod-install`
-- Run `yarn start` to start the bundler.
-- Open the project in a React runtime to try it:
-  - iOS: [Client iOS](https://itunes.apple.com/app/apple-store/id982107779)
-  - Android: [Client Android](https://play.google.com/store/apps/details?id=host.exp.exponent&referrer=blankexample)
-  - Web: Any web browser
+- Utilizando Atomic Design na arquitetura dos Componentes.
+- Acessando API para autenticação e listagem dos usuários.
+- Mantendo constantes dento de um arquivo .env por questões de segurança.
+- Utilizando apenas componentes do React Native pela simplicidade do projeto.
 
-## Adding Native Code
+## 🚀 Como rodar o projeto
 
-This project can be run from a web browser or the Expo client app. You may find that you want to add more native code later on. You can do this by ejecting the project and rebuilding it yourself.
-
-- Run `yarn eject` to create the native projects.
-- You can still run your project in the web browser or Expo client, you just won't be able to access any new native modules you add.
-
-## Publishing
-
-- Deploy the native app to the App store and Play store using this guide: [Deployment](https://docs.expo.io/distribution/app-stores/).
-- Deploy the website using this guide: [Web deployment](https://docs.expo.io/distribution/publishing-websites/).
-
-## 📝 Notes
-
-- Learn more about [Universal React](https://docs.expo.io/).
-- See what API and components are [available in the React runtimes](https://docs.expo.io/versions/latest/).
-- Find out more about developing apps and websites: [Guides](https://docs.expo.io/guides/).
+- Ter o Node.js instalado.
+- Instalar os pacotes com `yarn` or `npm install`.
+- Rodar `yarn start` para iniciar o ambiente de desenvolvimento.
+- Acessar o aplicativo pelo localhost, direto do navegador.
+- Se preferir testar no celular: instalar o aplicativo Expo Go no celular e rodar o projeto escaneando o QR Code que o terminal apresenta.
