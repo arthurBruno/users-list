@@ -35,16 +35,16 @@
 - Tela de Login:
 O botão "Usar dados de Teste" coloca nos inputs os acessos que vocês me passaram.
 
-![Tela de Login](../readme-assets/tela-login.png)
+![Tela de Login](https://imgur.com/9HyBN4R)
 
 
 - Tela da Home:
 Uma Home simples apenas para deixar o aplicativo melhor separado e com a possibilidade de ter mais módulos acrescentados.
 
-![Tela da Home](../readme-assets/tela-home.png)
+![Tela da Home](https://imgur.com/mQPwahd)
 
 
 - Tela de Usuários:
 Tela que lista todos os usuários que a API retorna, e mostra os detalhes se você clicar no usuário.
 
-![Tela de Usuários](../readme-assets/tela-usuarios.png)
+![Tela de Usuários](https://imgur.com/6AukICQ)
